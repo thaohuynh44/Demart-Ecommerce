@@ -1,0 +1,162 @@
+[
+  {
+    "Name": "Bình nước Lock&Lock Eco",
+    "Description": "Thiết kế nhỏ gọn, bắt mắt và tiện dụng, đang được nhiều gia đình chọn lựa tin dùng. Bình nước được làm bằng nhựa PC cao cấp, bền đẹp, hoàn toàn thân thiện với môi trường và an toàn cho sức khỏe.",
+    "Price": 159000,
+    "PictureUrl": "https://locknlockvietnam.com/wp-content/uploads/2018/04/binh-dung-nuoc-nhua-pc-cao-cap-550ml-lockamplock-eco-bottle-nau-2014.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Ấm siêu tốc Lock&Lock",
+    "Description": "Thiết kế hiện đại, sở hữu vẻ ngoài sáng bóng, sang trọng góp phần tô điểm làm đẹp thêm cho không gian bếp của nhà bạn. Với dung tích 1.7 lít có thể phục vụ các mục đích khác nhau như pha trà, cà phê, nấu mì vô cùng tiện lợi.",
+    "Price": 669000,
+    "PictureUrl": "https://locknlockvietnam.com/wp-content/uploads/2021/02/am-dun-sieu-toc-2-lop-cach-nhiet-lock-lock-ejk631blk-1-7l-5.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hộp thực phẩm SummerFresh",
+    "Description": "Cấu tạo nắp hộp bảo quản thực phẩm vuông kín khí, kiểm soát lượng đối lưu của không khí trong và ngoài hộp giúp mùi của thức ăn sẽ không thoát ra ngoài.",
+    "Price": 621000,
+    "PictureUrl": "https://www.tupperware.com.vn/service/appng/tupperware-products/webservice/images/327460_666x468.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Máy Xay Trộn Extra Chef",
+    "Description": "Máy xay thực phẩm Food Processor Extra Chef có dung tích lớn, thiết kế nhiều ưu điểm đang được nhiều người lựa chọn. Thiết kế thông minh với 2 loại dao cắt trộn độc đáo.",
+    "Price": 2450000,
+    "PictureUrl": "https://www.tupperware.com.vn/service/appng/tupperware-products/webservice/images/125832_666x468.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Bếp nướng điện Sunhouse",
+    "Description": "Bếp nướng điện Sunhouse SHD4607 phù hợp cho 5 - 6 người dùng. Chỉ cần chuẩn bị các món nướng yêu thích với sự hỗ trợ của một chiếc bếp nướng điện cao cấp Sunhouse SHD4607, quá đơn giản để chuẩn bị một bữa nướng ngon tuyệt với gia đình hoặc bạn bè.",
+    "Price": 429000,
+    "PictureUrl": "https://s.meta.com.vn/Data/image/2019/09/05/bep-nuong-dien-sunhouse-shd4607-1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Ấm siêu tốc Sunhouse",
+    "Description": "Ấm siêu tốc được làm bằng chất liệu inox nên không lo trong quá trình đun nước ở nhiệt độ cao sẽ không thôi ra các chất độc hại, đảm bảo nguồn nước uống luôn trong lành, sạch sẽ.",
+    "Price": 249000,
+    "PictureUrl": "https://s.meta.com.vn/Data/image/2019/09/24/am-sieu-toc-sunhouse-shd1182-g.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Trên đường băng",
+    "Description": "Trên đường băng là tập hợp những bài viết được ưa thích trên Facebook của Tony Buổi Sáng. Nhưng khác với một tập tản văn thông thường, nội dung các bài được chọn lọc có chủ đích, nhằm chuẩn bị về tinh thần, kiến thức…cho các bạn trẻ vào đời.",
+    "Price": 58000,
+    "PictureUrl": "https://salt.tikicdn.com/ts/product/61/87/8a/082a07cec3232115e2b22636fd71593c.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Từ Tốt Đến Vĩ Đại",
+    "Description": "Jim Collins cùng nhóm nghiên cứu đã miệt mài nghiên cứu những công ty có bước nhảy vọt và bền vững để rút ra những kết luận sát sườn, những yếu tố cần kíp để đưa công ty từ tốt đến vĩ đại. Đó là những yếu tố khả năng lãnh đạo, con người, văn hóa, kỷ luật, công nghệ… ",
+    "Price": 105000,
+    "PictureUrl": "https://salt.tikicdn.com/cache/w1200/media/catalog/product/n/x/nxbtre_full_06372017_103735.u547.d20170117.t105220.139884.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Cảm Giác Hygge",
+    "Description": "Không ngẫu nhiên mà Cảm giác HYGGE trở thành hiện tượng xuất bản trên thế giới và liên tục là best seller. Bởi Meik Wiking đã cho thấy, hygge không phải thứ “nguyên liệu” bí mật chỉ người Đan Mạch mới có. Bạn hoàn toàn có thể tìm thấy hygge để cho vào công thức hạnh phúc của chính mình.",
+    "Price": 112000,
+    "PictureUrl": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/b/_/b_a-c_m-gi_c-hygge-1-page-001.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Đắc Nhân Tâm",
+    "Description": "Đắc nhân tâm của Dale Carnegie là quyển sách của mọi thời đại và một hiện tượng đáng kinh ngạc trong ngành xuất bản Hoa Kỳ.",
+    "Price": 70000,
+    "PictureUrl": "https://cdn0.fahasa.com/media/catalog/product/cache/1/small_image/600x600/9df78eab33525d08d6e5fb8d27136e95/u/n/untitlednttttd-1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "iPhone 12 64GB",
+    "Description": "Phone 12 ra mắt với vai trò mở ra một kỷ nguyên hoàn toàn mới. Tốc độ mạng 5G siêu tốc, bộ vi xử lý A14 Bionic nhanh nhất thế giới smartphone, màn hình OLED tràn cạnh tuyệt đẹp và camera siêu chụp đêm.",
+    "Price": 19799000,
+    "PictureUrl": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382632990998957_ip-12-xanhduong-1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Apple Watch SE 44mm",
+    "Description": "Apple Watch SE GPS 44mm mang đến cho bạn nhiều trải nghiệm hơn trên màn hình lớn Retina tuyệt đẹp; hoạt động hoàn hảo nhờ bộ vi xử lý mạnh mẽ.",
+    "Price": 7999000,
+    "PictureUrl": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/9/19/637361526446089879_Apple%C2%A0Watch%20SE%20GPS%C2%A044mm%20den%201.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Samsung Galaxy S21 Ultra",
+    "Description": "Samsung Galaxy S21 Ultra 5G mang đến cuộc cách mạng trong nhiếp ảnh với khả năng tạo ra kiệt tác dễ dàng hơn bao giờ hết.",
+    "Price": 25999000,
+    "PictureUrl": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/1/14/637462630853935725_ss-s21-ultra-den-1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Pin sạc dự phòng Samsung",
+    "Description": "Tính phù hợp của sạc dự phòng Samsung 10000mAh cho tất cả các dòng điện thoại: sạc dự phòng cho điện thoại samsung, Pin sạc dự phòng Iphone, Sạc dự phòng Vivo,...",
+    "Price": 850000,
+    "PictureUrl": "https://www.phukiensamsung.com/Uploads/pin-sac-du-phong-khong-day-samsung-10000mah-type-c-chinh-hang.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Máy ảnh Canon EOS",
+    "Description": "Cảm biến CMOS, độ phân giải 24.1MP cho thước ảnh đẹp. Bộ xử lý ảnh DIGIC 8 mạnh mẽ cho màu sắc chuẩn xác",
+    "Price": 11999000,
+    "PictureUrl": "https://cdn.nguyenkimmall.com/images/detailed/624/10044646-may-anh-canon-eos-m200-ef-m-15-45mm-den-1.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Máy in laser đen trắng Canon",
+    "Description": "Máy in Canon MF269Dw được trang bị một màn hình điều khiển mới tích hợp không giới hạn với thân máy. Cách bố trí hợp thời trang, thân thiện với người sử dụng giúp bạn vận hành thiết bị một cách dễ dàng.",
+    "Price": 11590000,
+    "PictureUrl": "https://phucanhcdn.com/media/product/35379_mf269dw_ha2.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Giày Thể Thao Bitis",
+    "Description": "Giày thể thao Bitis nằm trong bộ sưu tập được thiết kế với phom dáng trẻ trung, năng động.",
+    "Price": 625000,
+    "PictureUrl": "https://product.hstatic.net/1000230642/product/dsm074233kem40_7__fac1d188bde04910ba433e587e221ed0_1024x1024.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Sandal Cao Su Bitis",
+    "Description": "Mẫu giày xăng đan trẻ trung, năng động của thương hiệu thời trang Bitis. Chất liệu cao cấp, bền đẹp.",
+    "Price": 255000,
+    "PictureUrl": "https://product.hstatic.net/1000230642/product/drb031400doo_3_975164c25eff4fceb23f9f42eaf49ab9_1024x1024.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 9
+  },
+{
+    "Name": "Áo sơ mi dài tay",
+    "Description": "Áo sơ mi hoa văn tay dài Việt Tiến phom Regular, chất liệu Lotus - Spun có các tính năng như bảo vệ sức khỏe người mặc, mềm mại, chống tia uv, thấm hút tốt, ít nhăn dễ ủi, phù hợp với môi trường công sở hiện đại.",
+    "Price": 610000,
+    "PictureUrl": "https://www.viettien.com.vn/admin/wp-content/uploads/2019/12/SO-MI-36-A.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "Đầm xám trơn Viettien",
+    "Description": "Đầm trơn màu mang lại nét đẹp giản dị mà tinh tế, giúp bạn tiết kiệm thời gian trong việc phối đồ.",
+    "Price": 1590000,
+    "PictureUrl": "https://www.viettien.com.vn/admin/wp-content/uploads/2017/07/Capture00676aa-copy-2.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 10
+  }
+]
