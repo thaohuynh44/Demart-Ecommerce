@@ -46,10 +46,10 @@
             <p><i class="fa fa-map-marker text-info fa-lg"></i>&nbsp;&nbsp;Giao hàng đến TPHCM</p>
     
             <div class="d-flex justify-content-start align-items-center mt-4">
-                <i class="fa fa-minus-circle text-warning mr-2" style="cursor: pointer; font-size: 2em;"></i>
-                <span class="font-weight-bold">2</span>
-                <i class="fa fa-plus-circle text-warning mx-2" style="cursor: pointer; font-size: 2em;"></i>
-                <button class="btn btn-outline-primary ml-4">Thêm vào giỏ hàng</button>
+                <i (click)="decrementQuantity()" class="fa fa-minus-circle text-warning mr-2" style="cursor: pointer; font-size: 2em;"></i>
+                <span class="font-weight-bold">{{quantity}}</span>
+                <i (click)="incrementQuantity()" class="fa fa-plus-circle text-warning mx-2" style="cursor: pointer; font-size: 2em;"></i>
+                <button (click)="addItemToBasket()" class="btn btn-outline-primary ml-4">Thêm vào giỏ hàng</button>
             </div>       
         </div>
         <div class="row mt-3">
