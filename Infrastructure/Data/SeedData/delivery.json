@@ -1,0 +1,26 @@
+[
+  {
+    "ShortName": "24/7",
+    "Description": "Nhận hàng ngay trong ngày",
+    "DeliveryTime": "1 ngày",
+    "Price": 100000
+  },
+  {
+    "ShortName": "Vận chuyển nhanh",
+    "Description": "Nhận hàng trong vòng 3 ngày",
+    "DeliveryTime": "2-3 ngày",
+    "Price": 50000
+  },
+  {
+    "ShortName": "Tiêu chuẩn",
+    "Description": "Nhận hàng trong 1 tuần",
+    "DeliveryTime": "4-7 ngày",
+    "Price": 20000
+  },
+  {
+    "ShortName": "Tiết kiệm",
+    "Description": "Miễn phí! Không quá 14 ngày",
+    "DeliveryTime": "1-2 tuần",
+    "Price": 0
+  }
+]
