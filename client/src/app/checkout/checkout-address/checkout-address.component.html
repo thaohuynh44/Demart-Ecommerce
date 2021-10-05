@@ -1,0 +1,41 @@
+<div class="mt-4" [formGroup]="checkoutForm">
+    <div class="d-flex justify-content-between align-items-center">
+        <h4>Địa chỉ giao hàng</h4>
+        <button 
+            class="btn btn-outline-success mb-3"
+            (click)="saveUserAddress()"
+            [disabled]="!checkoutForm.get('addressForm')!.valid ||
+                        !checkoutForm.get('addressForm')!.dirty">
+            Đặt làm địa chỉ mặc định
+        </button>
+    </div>
+    <div class="row" formGroupName="addressForm">
+        <div class="form-group col-6">
+            <app-text-input [label]="'Tên'" formControlName="firstName"></app-text-input>
+        </div>
+        <div class="form-group col-6">
+            <app-text-input [label]="'Họ'" formControlName="lastName"></app-text-input>
+        </div>
+        <div class="form-group col-6">
+            <app-text-input [label]="'Đường'" formControlName="street"></app-text-input>
+        </div>
+        <div class="form-group col-6">
+            <app-text-input [label]="'Quận/ huyện'" formControlName="city"></app-text-input>
+        </div>
+        <div class="form-group col-6">
+            <app-text-input [label]="'Tỉnh/ thành phố'" formControlName="state"></app-text-input>
+        </div>
+        <div class="form-group col-6">
+            <app-text-input [label]="'Zip Code'" formControlName="zipCode"></app-text-input>
+        </div>
+    </div>
+</div>
+
+<div class="float-none d-flex justify-content-between flex-column flex-lg-row mb-5">
+    <button class="btn btn-outline-warning" routerLink="/basket">
+        <i class="fa fa-angle-left"></i> Quay lại giỏ hàng
+    </button>
+    <button class="btn btn-warning" cdkStepperNext>
+        Đi tới vận chuyển <i class="fa fa-angle-right"></i>
+    </button>
+</div>
