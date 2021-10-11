@@ -1,20 +1,20 @@
-<div class="bg-light px-4 py-3 text-uppercase font-weight-bold">
+<div class="bg-light px-4 text-uppercase font-weight-bold" style="padding: 1.2em;">
     Thông tin đơn hàng
 </div>
 <div class="p-4">
     <p class="font-italic mb-4">Phí vận chuyển sẽ được tính thêm dựa vào phương thức vận chuyển bạn muốn chọn</p>
-    <ul class="list-unstyled mb-4" *ngIf="(basketTotal$ | async) as totals">
+    <ul class="list-unstyled mb-4">
         <li class="d-flex justify-content-between py-3 border-bottom">
             <strong class="text-muted">Tạm tính</strong>
-            <strong>{{totals.subtotal | currency: "VND"}}</strong>
+            <strong>{{subtotal | currency: "VND"}}</strong>
         </li>
         <li class="d-flex justify-content-between py-3 border-bottom">
             <strong class="text-muted">Phí vận chuyển</strong>
-            <strong>{{totals.shipping | currency: "VND"}}</strong>
+            <strong>{{shippingPrice | currency: "VND"}}</strong>
         </li>
         <li class="d-flex justify-content-between py-3 border-bottom">
             <strong class="text-muted">Thành tiền</strong>
-            <strong>{{totals.total | currency: "VND"}}</strong>
+            <strong>{{total | currency: "VND"}}</strong>
         </li>
     </ul>
 </div>

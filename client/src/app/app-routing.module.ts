@@ -17,6 +17,12 @@ const routes: Routes = [
     path: 'checkout',
     canActivate: [AuthGuard], 
     loadChildren: () => import('./checkout/checkout.module').then(mod => mod.CheckoutModule), data: {breadcrumb: 'Thanh toán'}},
+  {
+    path: 'orders', 
+    canActivate: [AuthGuard],
+    loadChildren: () => import('./orders/orders.module').then(mod => mod.OrdersModule),
+    data: { breadcrumb: 'Đơn hàng' }
+  },    
   {path: 'account', loadChildren: () => import('./account/account.module').then(mod => mod.AccountModule), data: {breadcrumb: {skip: true}}},
   {path: '**', redirectTo: 'not-found', pathMatch:'full'}
 ];
